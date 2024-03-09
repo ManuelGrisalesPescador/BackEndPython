@@ -23,4 +23,4 @@ while True:
     if str(PlayAgain) == "n":
         break
     else:
-        print('/ffn'*292349)
+        print('/ffn'*29)
